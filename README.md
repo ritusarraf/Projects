@@ -1,1 +1,1 @@
-Instagram Login PAge with the help of HTML and CSS
+Instagram Login Page with the help of HTML and CSS
